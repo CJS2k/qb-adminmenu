@@ -13,7 +13,7 @@ local MinY, MaxY        = -89.0, 89.0
 ]]
 
 -- Perspective values
-local PedFirstPersonNoClip      = true       -- No Clip in first person when not in a vehicle
+local PedFirstPersonNoClip      = false      -- No Clip in first person when not in a vehicle
 local VehFirstPersonNoClip      = false      -- No Clip in first person when in a vehicle
 local ESCEnable                 = false      -- Access Map during NoClip
 
